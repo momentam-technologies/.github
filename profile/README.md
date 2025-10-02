@@ -1,6 +1,6 @@
-<p align="center"><a href="https://momentam.io" target="_blank"><img src="https://avatars.githubusercontent.com/u/235579091?s=200&v=4" width="200"></a></p>
+<p align="center"><a href="https://momentam.io" target="_blank"><img src="https://avatars.githubusercontent.com/u/235579091?s=200&v=4" width="150"></a></p>
 
-<p align="center" style="font-size: 60px; font-weight: bold;">Momentam</p>
+<p align="center" style="font-size: 90px; font-weight: bold;">Momentam</p>
 
 - Welcome to the official Repository of [`Momentam Technologies`](https://github.com/momentam-technologies)
 - At Momentam Technologies, we aim to revolutionize how event attendees get their professional photos, ensuring quick and seamless delivery of high-quality images directly to your device.
