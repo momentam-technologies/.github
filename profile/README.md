@@ -1,4 +1,4 @@
-<p align="center"><a href="https://momentam.io" target="_blank"><img src="https://avatars.githubusercontent.com/u/235579091?s=200&v=4" width="250"></a></p>
+<p align="center"><a href="https://momentam.io" target="_blank"><img src="https://avatars.githubusercontent.com/u/235579091?s=200&v=4" width="200"></a></p>
 
 <p align="center" style="font-size: 60px; font-weight: bold;">Momentam</p>
 
