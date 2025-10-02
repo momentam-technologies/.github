@@ -1,12 +1,8 @@
-## Hi there 👋
+# Momentam
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Welcome to the official Repository of [`Momentam Technologies`](https://github.com/momentam-technologies)
+- At Momentam Technologies, we aim to revolutionize how event attendees get their professional photos, ensuring quick and seamless delivery of high-quality images directly to your device.
+- We’re solving the common problem of delayed photo delivery and lost memories by offering a platform where event attendees can instantly connect with photographers, view packages, and receive their photos before the event ends.
+- Our mission is to enhance experiences at conferences, weddings, exhibitions, graduations, and more by making photography as easy as booking a ride.
+- With Momentam, you can choose the number of photos, check prices, pay, and download your pictures all on the same day, without waiting for post-event links.
+- Contact us at info@momentam.io
