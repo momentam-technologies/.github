@@ -1,3 +1,5 @@
+<p align="center"><a href="https://momentam.io" target="_blank"><img src="https://avatars.githubusercontent.com/u/235579091?s=200&v=4" width="250"></a></p>
+
 # Momentam
 
 - Welcome to the official Repository of [`Momentam Technologies`](https://github.com/momentam-technologies)
